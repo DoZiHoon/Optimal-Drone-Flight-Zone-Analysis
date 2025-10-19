@@ -1,0 +1,37 @@
+구역 코드,위치,수평범위,수직범위
+UA 2,구성산,Circle with radius of 1.8 km (1.0 NM) centered on 354421N 1270027E,500ft AGL------SFC(지표면)
+UA 3,약산,Circle with radius of 0.7 km (0.4 NM) centered on 354421N 1282502E,
+UA 4,봉화산,Circle with radius of 4.0 km (2.2 NM) centered on 353731N 1290532E,
+UA 5,덕두산,Circle with radius of 4.5 km (2.4 NM) centered on 352441N 1273157E,
+UA 6,금산,Circle with radius of 2.1 km (1.1 NM) centered on 344411N 1275852E,
+UA 7,홍산,Circle with radius of 1.2 km (0.7 NM) centered on 354941N 1270452E,
+UA 9,양평,373010N 1272300E - 373010N 1273200E - 372700N 1273200E - 372700N 1272300E - to point of origin,
+UA 10,고창,Circle with radius of 4.0 km (2.2 NM) centered on 352311N 1264353E,
+UA 14,공주,363038N 1270033E - 363002N 1270713E - 362604N 1270553E - 362729N 1265750E - to the beginning,
+UA 19,시화호,371751N 1264215E - 371724N 1265000E - 371430N 1265000E - 371315N 1264628E - 371245N 1264029E - 371244N 1263342E - 371414N 1263319E - to point of origin,
+UA 21,방장산,Circle with radius of 3.0 km (1.6 NM) centered on 352658N 1264417E,
+UA 24,구좌,Circle with radius of 2.8 km (1.5 NM) centered on 332841N 1264922E,
+UA 25,하동,350147N 1274325E - 350145N 1274741E - 345915N 1274739E - 345916N 1274324E - to point of origin,
+UA 26,장암산,372338N 1282419E - 372410N 1282810E - 372153N 1282610E - 372211N 1282331E - to point of origin,
+UA 27,미악산,Circle with radius of 1.2 km (0.7 NM) centered on 331800N 1263316E,
+UA 28,서운산,Circle with radius of 2.0 km(1.1 NM) centered on 365550N 1271659E,
+UA 29,오천,Circle with radius of 2.0 km(1.1 NM) centered on 365711N 1271716E,
+UA 30,북좌,Circle with radius of 2.0 km(1.1 NM) centered on 370242N 1271940E,
+* UA 31,청라,373354N 1263730E - 373400N 1263744E - 373351N 1263750E - 373345N 1263736E - to point of origin,
+* UA 32,퇴촌,Circle with radius of 0.3 km(0.2 NM) centered on 372800N 1271809E,
+* UA 33,병천천,363904N 1272103E - 363902N 1272111E - 363850N 1272106E - 363852N 1272059E - to point of origin,
+* UA 34,미호천,363710N 1272048E - 363705N 1272105E - 363636N 1272049E - 363650N 1272033E - to point of origin,
+* UA 35,김해,352057N 1284815E - 352101N 1284825E - 352047N 1284833E - 352043N 1284823E - to point of origin,
+* UA 36,밀양,352801N 1284642E - 352729N 1284714E - 352717N 1284659E - 352750N 1284627E - to point of origin,
+* UA 37,창원,352238N 1283856E - 352238N 1283931E - 52216N 1283931E – 352213N 1283921E - 352213N 1283856E – to point of origin,
+* UA 38,울주,353129N 1290947E – 353128N 1290957E - 353130N 1291001E – 353126N 1291003E - 353124N 1291001E – 353125N 1290946E - to the beginning,
+* UA 39,김제,355435N 1265304E - 355454N 1265257E - 355458N 1265339E - 355437N 1265420E - 355420N 1265408E - 355439N 1265331E - to point of origin,
+* UA 40,고령,Circle with radius of 80 m(0.05 NM) centered on 355034N 1282639E,
+* UA 41,대전,362754N 1272326E – 362757N 1272427E - 362710N 1272439E – 362707N 1272306E - to the beginning,
+**UA 42,광주,"Circle with radius of 50m(0.03NM) centered on 351318N 1285142E
+                    ※ Only for Unmanned Aerial Vehicle practical test
+                    Active: TUE-WED 0800-1800(KST)",
+**UA 43,영월,"371036N 1282739E – 371031N 1282745E -
+                    371029N 1282743E – 371034N 1282737E – to the beginning
+                    ※ Only for Unmanned Aerial Vehicle practical test
+                    Active: TUE-WED 0800-1800(KST)",
